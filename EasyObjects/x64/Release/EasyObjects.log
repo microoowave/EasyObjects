@@ -1,0 +1,13 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 6.9.1
+  qcustomplot.cpp
+  EasyObjects.cpp
+  main.cpp
+  qrc_EasyObjects.cpp
+  moc_EasyObjects.cpp
+  moc_qcustomplot.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11590 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EasyObjects.vcxproj -> C:\Users\arthu\Documents\01. Micro Projects\05.EasyObjects\EasyObjects\x64\Release\EasyObjects.exe
